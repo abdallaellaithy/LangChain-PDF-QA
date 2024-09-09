@@ -14,7 +14,7 @@ LangChain-PDF-QA is a Python-based project that uses the LangChain framework to 
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/LangChain-PDF-QA.git
+git clone [https://github.com/yourusername/LangChain-PDF-QA.git](https://github.com/abdallaellaithy/LangChain-PDF-QA.git)
 cd LangChain-PDF-QA
 pip install -r requirements.txt
 ```
