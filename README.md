@@ -15,8 +15,6 @@ To get started, clone the repository and install the necessary dependencies:
 
 ```bash
 git clone https://github.com/yourusername/LangChain-PDF-QA.git
-cd LangChain-PDF-QA
-pip install -r requirements.txt
 ```
 ## Usage
 
